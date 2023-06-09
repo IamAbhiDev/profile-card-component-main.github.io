@@ -97,6 +97,7 @@ body {
 .card__profile-text {
     color: var(--dark-grayish-blue);
     margin-top: 0.6rem;
+    font-size: .9rem;
 }
 
 .card__info {
@@ -119,7 +120,6 @@ body {
     color: var(--very-dark-desaturated-blue);
     font-size: 1.125rem;
     font-weight: var(--bold);
-    letter-spacing: .05em;
 }
 
 .card__info-col-text {
